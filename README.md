@@ -19,6 +19,12 @@ The audience will be looking for:
 - Images
 - Contact 
 - Blog
+
 All presented in a professional neat and fresh look and feel.
 
 Also made mobile friendly 
+
+1st Level	-	Front
+2nd Level	-	Education, Work, Professional Past Time, Relaxation, Acheivements&Charity, Website Blog, Contact
+3rd Level	-	In Depth detail of 2nd Level with more text
+This will work by being able to go to and from the front screen and all of level 2, and from level 2 you can access specifics at level 3.
